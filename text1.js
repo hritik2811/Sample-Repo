@@ -5,3 +5,5 @@ const b=[1,5,6];
 console.log(a);
 
 console.log(b);
+
+//some more comments
