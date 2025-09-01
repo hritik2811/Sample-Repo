@@ -1,15 +1,7 @@
-const a=[1,2,3,4];
+//line 1 -> mac
 
-const b=[1,5,6];
+//line 2 -> mac
 
-//asus bitch!!
+//line 3 -> mac
 
-console.log(a);
-
-console.log(b);
-
-//some more comments
-
-//added from mackbook
-
-//added from asus
+//line 4 -> mac
