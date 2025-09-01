@@ -4,7 +4,11 @@
 
 //line 7894 -> asus
 
+
 const a = [1, 2, 3, 4, 5];
+
+const abc=[1,2,3,6]
+
 
 //line 3 -> mac
 
@@ -18,6 +22,8 @@ const car = { type: "Fiat",
     color: "white" };
 
 //line 2345 -> asus
+
+console.log(abc);
 
 //asus linesssss
 
